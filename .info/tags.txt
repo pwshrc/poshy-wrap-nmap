@@ -1,0 +1,3 @@
+nmap
+poshy-wrap
+pwshrc
